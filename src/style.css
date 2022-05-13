@@ -14,7 +14,7 @@ main {
   display: flex;
   align-items: center;
   height: 65px;
-  background: linear-gradient(90deg, #4bc3c9 1.18%, #a626d3 100%);
+  background: linear-gradient(90deg, #dbab0c 1.18%, #a626d3 100%);
   color: white;
   padding: 20px;
 }
@@ -40,7 +40,7 @@ main {
 .form--button {
   grid-column: 1 / -1;
   font-family: 'Karla', sans-serif;
-  background: linear-gradient(90.41deg, #6304a3a4 1.14%, #1893da 100%);
+  background: linear-gradient(90.41deg, #9604a3a4 1.14%, #daaa18 100%);
   color: white;
   border: none;
   cursor: pointer;
